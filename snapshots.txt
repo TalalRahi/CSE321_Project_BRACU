@@ -1,0 +1,44 @@
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     RUNNING    -           
+2     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     RUNNING    -           
+2     1     RUNNING    -           
+3     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     RUNNING    -           
+2     1     RUNNING    -           
+3     1     RUNNING    -           
+4     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     BLOCKED    -           
+2     1     RUNNING    -           
+3     1     RUNNING    -           
+4     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     BLOCKED    -           
+2     1     ZOMBIE     10          
+3     1     RUNNING    -           
+4     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     RUNNING    -           
+3     1     RUNNING    -           
+4     1     RUNNING    -           
+
+--- Process Table Snapshot ---
+PID   PPID  STATE      EXIT_STATUS 
+1     0     RUNNING    -           
+3     1     RUNNING    -           
+4     1     RUNNING    -           
+
